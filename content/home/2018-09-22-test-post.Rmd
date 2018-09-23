@@ -1,5 +1,5 @@
 ---
-title: Test Post
+title: Note
 author: Matt Higham
 date: '2018-09-22'
 slug: test-post
@@ -12,4 +12,4 @@ header:
 ---
 
 
-NOTE: This website is currently a draft.
+This website is currently a draft, but feel free to browse if interested!
