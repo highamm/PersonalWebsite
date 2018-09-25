@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Matt Higham"
-  role = "Graduate Student"
+  role = "PhD Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -282,15 +282,20 @@ enableGitInfo = false
 ##  url = "#publications_selected"
 ##  weight = 2
 
-##[[menu.main]]
-##  name = "Posts"
-##  url = "#posts"
-##  weight = 3
-
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+  name = "Teaching Experience"
+  url = "#teaching"
+  weight = 2
+  
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
+
+##[[menu.main]]
+##  name = "Projects"
+##  url = "#projects"
+##  weight = 4
 
 ##[[menu.main]]
 ##  name = "Tutorials"
@@ -300,19 +305,19 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
     url = "files/HighamCV.pdf"
-    weight = 7
+    weight = 2
 
 [[menu.main]]
   name = "Personal Interests"
   url = "#2018-09-25-personalinterestsr"
-  weight = 8
+  weight = 7
   
 # Search.
 [params.search]

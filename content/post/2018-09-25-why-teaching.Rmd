@@ -1,5 +1,5 @@
 ---
-title: Why Teaching?
+title: About My Teaching in < 500 Words
 author: Matt Higham
 date: '2018-09-24'
 hidedate: true
@@ -15,4 +15,3 @@ Entering graduate school, I did not have any formal teaching experience nor had 
 
 Throughout the past year, I have had the opportunity to instruct multiple statistics courses, which has only fueled my passion for teaching students various aspects of the field of statistics. I love when students in my courses realize the role statistics plays in their fields of study and in everyday life. One of my favorite assignments I experimented with in the past year asked each student to listen to a podcast of their choosing about statistics and answer a few questions about the podcast in the form of a short written reflection. The goal of this low-stakes assignment was for students to connect statistics to a topic of interest and then communicate that connection with both myself and other students in the course. The day after the assignment was due, I overheard many student groups excitedly talking about the podcasts they chose before class had started. It was awesome! Though not every new assignment is an instant gem, part of the reason I love to teach is experimenting with new ideas, seeing what works based on informal and formal student feedback, and watching students learn and interact when an activity or assessment really works well.
 
-Three areas that I particularly benefited from are \textbf{methods to improve} the classroom learning experience for students, how to put best practices in \textbf{online teaching} into practice, and how I might use best \textbf{mentoring} practices for future mentees.
