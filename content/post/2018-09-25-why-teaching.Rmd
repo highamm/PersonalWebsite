@@ -1,0 +1,18 @@
+---
+title: Why Teaching?
+author: Matt Higham
+date: '2018-09-24'
+hidedate: true
+slug: why-teaching
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+Entering graduate school, I did not have any formal teaching experience nor had I ever enrolled in any courses on education. But, through serving as a teaching assistant for an introductory statistics course throughout my first year, I found that I genuinely enjoyed all aspects of teaching and started to consider more teaching-focused careers. During my third year of the graduate program, I received an RA position through a grant from the Fish and Wildlife Service. Though I was happy to have the extra time to devote to research (which I also enjoy), I recognized that I really missed teaching. I began to more seriously look into careers involving university teaching and decided to apply for Oregon State’s Graduate Certificate in College and University Teaching (GCCUT) for the following year. The GCCUT program is a stand-alone degree consisting of 18 credits of coursework and experiences designed to enhance university teaching skills. In conjunction with GCCUT, I took a self-directed learning course on the subject of mentoring in graduate school. 
+
+Throughout the past year, I have had the opportunity to instruct multiple statistics courses, which has only fueled my passion for teaching students various aspects of the field of statistics. I love when students in my courses realize the role statistics plays in their fields of study and in everyday life. One of my favorite assignments I experimented with in the past year asked each student to listen to a podcast of their choosing about statistics and answer a few questions about the podcast in the form of a short written reflection. The goal of this low-stakes assignment was for students to connect statistics to a topic of interest and then communicate that connection with both myself and other students in the course. The day after the assignment was due, I overheard many student groups excitedly talking about the podcasts they chose before class had started. It was awesome! Though not every new assignment is an instant gem, part of the reason I love to teach is experimenting with new ideas, seeing what works based on informal and formal student feedback, and watching students learn and interact when an activity or assessment really works well.
+
+Three areas that I particularly benefited from are \textbf{methods to improve} the classroom learning experience for students, how to put best practices in \textbf{online teaching} into practice, and how I might use best \textbf{mentoring} practices for future mentees.
