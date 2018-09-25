@@ -309,6 +309,11 @@ enableGitInfo = false
     url = "files/HighamCV.pdf"
     weight = 7
 
+[[menu.main]]
+  name = "Personal Interests"
+  url = "#PersonalInterests"
+  weight = 8
+  
 # Search.
 [params.search]
   # Search provider:

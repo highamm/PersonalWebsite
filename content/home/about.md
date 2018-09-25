@@ -34,6 +34,6 @@ weight = 5
 
 # Biography
 
-Matt Higham is a graduate student at Oregon State University pursuing a PhD in Statistics. He works with [Dr. Lisa Madsen](https://stat.oregonstate.edu/content/madsen-lisa)
- and [Dr. Jay Ver Hoef](https://sites.google.com/site/jayverhoef) on incorporating imperfect detection into ecological population estimation.
+I am a graduate student at Oregon State University pursuing a PhD in Statistics. I work on incorporating imperfect detection into ecological population estimation models with my advisors [Dr. Lisa Madsen](https://stat.oregonstate.edu/content/madsen-lisa)
+ and [Dr. Jay Ver Hoef](https://sites.google.com/site/jayverhoef).
 
