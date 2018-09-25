@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "highamm@oregonstate.edu"
   address = "Weniger Hall 241, Oregon State University, Oregon, 97331, USA"
-  office_hours = "Monday 9:00 - 10:00 am, Friday 8:00 - 9:00 am"
+  office_hours = "Monday 9:00 - 10:00 am, Friday 8:00 - 9:00 am PST"
   phone = "330 261 8010"
   skype = "mhigham794"
   telegram = ""
@@ -311,7 +311,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Personal Interests"
-  url = "#PersonalInterests"
+  url = "#2018-09-25-personalinterestsr"
   weight = 8
   
 # Search.
