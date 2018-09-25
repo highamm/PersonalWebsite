@@ -1,0 +1,18 @@
+---
+title: Personal Interests
+author: Matt Higham
+date: '2018-09-25'
+slug: personalinterestsr
+categories: []
+tags: []
+weight: 65
+header:
+  caption: ''
+  image: ''
+---
+
+In my free time, I enjoy hiking and jogging and have participated in the Corvallis half-marathon the past few years. I also like to play tennis and have coached the boys' high school tennis team at [Crescent Valley High School](http://www.osaa.org/teams/26854) since 2016. 
+
+One data set that I like to play with from time to time is my own fitness data from the past couple of years. For instance, I often feel like I am a bit more idle on the weekends (Saturdays and Sundays) in general, but, when graphing my fitness data from the last couple of years, there actually really isn't much of a difference in average distance walked between weekdays and weekends! (As an aside, you can easily spot the two Corvallis half-marathon days as outliers on the Sunday boxplot and the Friday boxplot outlier is from a hike to Broken Top Mountain in Bend which may be my all-time favorite hike :smile:).
+
+<img src="/home/2018-09-25-personalinterestsmarkdown_files/figure-html/unnamed-chunk-1-1.png" width="576" />

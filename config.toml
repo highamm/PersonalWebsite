@@ -316,7 +316,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Personal Interests"
-  url = "#2018-09-25-personalinterestsr"
+  url = "#2018-09-25-personalinterestsmarkdown"
   weight = 7
   
 # Search.
