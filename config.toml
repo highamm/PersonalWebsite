@@ -242,10 +242,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:highamm@oregonstate.edu"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fab"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "//twitter.com/MHigham_Stats"
 
   #[[params.social]]
   #  icon = "google-scholar"
