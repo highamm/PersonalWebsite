@@ -16,7 +16,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics (Expected)"
+  course = "PhD in Statistics"
   institution = "Oregon State University"
   year = 2019
 
