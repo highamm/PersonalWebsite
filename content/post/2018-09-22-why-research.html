@@ -1,0 +1,17 @@
+---
+title: About My Research in < 500 Words
+author: Matt Higham
+date: '2018-09-22'
+slug: why-research
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+
+
+<p>I have focused on applied problems in the ecological sciences primarily involving  and . I began my PhD research career working on population size prediction of moose in Togiak, Alaska, with grant support from the Alaska Fish and Wildlife Service. The challenge in many of these ecological studies is that not all individuals are detected, giving rise to capture-recapture methods, distance sampling methods, removal sampling, and methods involving direct modeling of imperfect detection (which is the area that I work in). The following flowchart summarizes many of the issues and components with predicting a population total in ecology. The orange denotes quantities from the spatial model, blue denotes quantities from the detection model, and green denotes quantities that are a function of both the spatial model and the detection model. Shape indicates whether we observe the quantity or not, with rectangles denoting observed data and ellipses denoting unobserved quantities. The flow chart was made using the <code>diagram</code> package in <code>R</code>.</p>
+<p><img src="/post/2018-09-22-why-research_files/figure-html/unnamed-chunk-1-1.png" width="432" /></p>
+<p>One reason this area of research is particularly interesting is that it is not immediately obvious how to incorporate both the uncertainty in estimating detection and the uncertainty in predicting counts on unobserved sites. A Bayesian approach fits nicely into this hierarchical framework, but, there is a trade-off in computation time. Additionally, these imperfect detection models are used by wildlife biologists in many different settings, and Bayesian models need to be implemented and monitored a bit more carefully.</p>
