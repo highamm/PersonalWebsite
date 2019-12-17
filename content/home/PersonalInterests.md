@@ -15,6 +15,6 @@ weight = 4
 
 +++
 
-In my free time, I enjoy hiking and jogging and have participated in the Corvallis half-marathon the past few years. I also like to play tennis and have coached the boys' high school tennis team at Crescent Valley High School since 2016. 
+In my free time, I enjoy hiking and jogging and try to run one half-marathon or marathon every year. I also like to play tennis as well as almost any other racket sport (table tennis, pickleball, badminton, etc.).
 
 
