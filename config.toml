@@ -62,10 +62,8 @@ enableGitInfo = false
   avatar = "CVPic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
-  email = "highamm@oregonstate.edu"
-  address = "Weniger Hall 241, Oregon State University, Oregon, 97331, USA"
-  office_hours = "Monday 9:00 - 10:00 am, Friday 8:00 - 9:00 am PST"
-  phone = "330 261 8010"
+  email = "mhigham@stlawu.edu"
+  address = "Bewkes Hall 121, St. Lawrence University, Canton, NY 13617"
   skype = "mhigham794"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -240,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:highamm@oregonstate.edu"
+    link = "mailto:mhigham@stlawu.edu"
 
   [[params.social]]
     icon = "twitter"
