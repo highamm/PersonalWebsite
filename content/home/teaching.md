@@ -15,10 +15,12 @@ weight = 39
 
 +++
 
-I have served as the lead instructor for the following courses at Oregon State University:
+I have served as the instructor for the following courses at St. Lawrence University:
 
-- ST 351: Introduction to Statistical Methods I (Summer 2018, Summer 2016)
-- ST 201: Principles of Statistics I (Spring 2018)
-- ST 202D: Principles of Statistics II Ecampus (Winter 2018, Fall 2017)
-- ST 352: Introduction to Statistical Methods II (Summer 2016)
+- STAT 113: Applied Statistical Methods
+- STAT 213: Applied Regression Analysis
+
+Additionally, I have served as the lead instructor for the following courses at Oregon State University:
+
+- ST 201 (Principles of Statistics I), ST 202D (Principles of Statistics II, ecampus), ST 351 (Intro to Statistical Methods I), and ST 352 (Intro to Statistical Methods II).
 
