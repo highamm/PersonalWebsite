@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Matt Higham"
-  role = "PhD Candidate"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Oregon State University", url = "https://stat.oregonstate.edu/" } ]
+  organizations = [ { name = "St. Lawrence University", url = "https://www.stlawu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "CVPic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
